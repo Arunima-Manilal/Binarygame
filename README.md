@@ -37,5 +37,7 @@ styling using css ,javascript.
 
 ## live demo 
 click here for live demo
+https://Arunima-Manilal.github.io/Binarygame/
+
 
 
